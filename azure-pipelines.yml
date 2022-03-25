@@ -1,7 +1,6 @@
 pool: Default
 trigger:
   - master
-gi
   - task: PublishTestResults@2
     displayName: 'Publish Test Results'
     condition: succeededOrFailed()
