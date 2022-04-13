@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/cndlabsdemos/Gitintegration/_apis/build/status/testdemo1227.ContosoAir?branchName=master)](https://dev.azure.com/cndlabsdemos/Gitintegration/_build/latest?definitionId=59&branchName=master)
+[![Build Status](https://dev.azure.com/testdemo12270/Git-Integration/_apis/build/status/testdemo1227.ContosoAir?branchName=master)](https://dev.azure.com/testdemo12270/Git-Integration/_build/latest?definitionId=103&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
